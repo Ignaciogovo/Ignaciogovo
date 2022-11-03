@@ -15,9 +15,11 @@
 <p>
 
 - 🔭 I’m currently working like **T-SQL Developer**
-- 🌱 I’m currently learning **admin a database, python**
+- 🌱 I’m currently learning **admin a database, django, pandas**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
-- 💬 Ask me about **anything**
+- 💬 Ask me about **tech and sports**
+- ✏️  languagues: python, SQL, php, html
+- ⚒️ tech: Docker, git, css
 
 </h4>
 </div>
