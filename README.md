@@ -5,7 +5,7 @@
 ### Hello World 👋 I am [Ignacio Govantes](https://github.com/ignaciogovo)
 
 <a href="https://www.linkedin.com/in/ignacio-govantes-ojeda-0b1869220/">
-  <img align="left" alt="Ignacio LinkedIn" width="22px" src="[https://media-exp1.licdn.com/dms/image/C5603AQGcgttR6k3MaA/profile-displayphoto-shrink_800_800/0/1631355868642?e=1672876800&v=beta&t=OzRaW2tQZbT6CedWua4dZE9wub8lbJKJUCz9TjBXBkE](https://media.licdn.com/dms/image/C5603AQGcgttR6k3MaA/profile-displayphoto-shrink_800_800/0/1631355868642?e=1680739200&v=beta&t=5ewBHYB5d4iKIdwMw6zqo7kWBBE3SuCJnycKQP1MRZM)" />
+ <p>LinkedIn</p>
 </a>
 
 
