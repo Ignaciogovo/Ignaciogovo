@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **admin a database, django, pandas**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **tech and sports**
-- ✏️  languagues: python, SQL, php, html
+- ✏️  languagues: python, SQL, php, bash
 - ⚒️ tech: Docker, git, css, bootstrap
 - 👨‍💻 databases: mysql, sql server, postgresql, mariadb, mongodb
 
