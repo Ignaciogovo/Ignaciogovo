@@ -14,7 +14,7 @@
 <br />
 <p>
 
-- 🔭 I’m currently working like **T-SQL Developer**
+- 🔭 I’m currently working as **T-SQL Developer**
 - 🌱 I’m currently learning **admin a database, django, pandas**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **tech and sports**
